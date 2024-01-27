@@ -1,5 +1,15 @@
 body {
-  background-color: #00008b;
+  background-color: var(--background-color);
+}
+
+:root {
+  --background-color: #00008b;
+  --font-main: "Super-font";
+}
+
+.bat {
+  --background-color: #484848;
+  --font-main: "Bat-font";
 }
 
 /* caixa principal */
@@ -19,4 +29,20 @@ body {
   width: 112px;
   margin: auto;
   display: block;
+}
+
+#profile p {
+  font-weight: 500;
+  line-height: 24px;
+}
+
+/* Fontes dos Textos */
+@font-face {
+  font-family: "Super-Font";
+  src: url("./Assets/Fontes/Super-Mode.ttf") format("woff2");
+}
+
+@font-face {
+  font-family: "Bat-font";
+  src: url("./Assets/Fontes/Bat-Mode.ttf") format("woff2");
 }
