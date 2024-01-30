@@ -6,6 +6,7 @@
 
 body {
   background-color: var(--background-color);
+  color: white;
 }
 
 :root {
@@ -22,13 +23,14 @@ body {
 #container {
   margin: auto;
   width: 360px;
-  height: 720px;
+  margin: 46px auto 0px;
   border: solid red 1px;
 }
 
 /* caixa do perfil */
 #profile {
   text-align: center;
+  padding: 24px;
 }
 
 #profile img {
@@ -40,6 +42,7 @@ body {
 #profile p {
   font-weight: 500;
   line-height: 24px;
+  margin-top: 8px;
 }
 
 /* Fontes dos Textos */
