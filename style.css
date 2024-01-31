@@ -9,14 +9,21 @@ body {
   color: white;
 }
 
+body * {
+  font-family: var(--font-main);
+  color: var(--font-color);
+}
+
 :root {
   --background-color: #00008b;
   --font-main: "Super-font";
+  --font-color: red;
 }
 
-.bat {
+.Bat {
   --background-color: #484848;
   --font-main: "Bat-font";
+  --font-color: black;
 }
 
 /* caixa principal */
