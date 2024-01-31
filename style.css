@@ -6,24 +6,26 @@
 
 body {
   background-color: var(--background-color);
-  color: white;
 }
 
 body * {
   font-family: var(--font-main);
   color: var(--font-color);
+  font-size: var(--font-size);
 }
 
 :root {
   --background-color: #00008b;
   --font-main: "Super-font";
   --font-color: red;
+  --font-size: 25px;
 }
 
 .Bat {
   --background-color: #484848;
   --font-main: "Bat-font";
   --font-color: black;
+  --font-size: 14px;
 }
 
 /* caixa principal */
@@ -75,9 +77,15 @@ ul li a {
   justify-content: center;
   align-items: center;
   padding: 16px 24px;
+  
   background: rgba(0, 0, 0, 0.185);
   border: 1px solid rgba(129, 129, 129, 0.5);
   border-radius: 10px;
+  
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
+  
+  text-decoration: none;
+  font-weight: 500;
+  
 }
