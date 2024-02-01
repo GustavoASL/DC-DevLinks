@@ -70,6 +70,7 @@ ul {
   display: flex;
   flex-direction: column;
   gap: 16px;
+  padding: 24px 0px;
 }
 
 ul li a {
@@ -95,4 +96,16 @@ ul li a {
 ul li a:hover {
   border: 1.5px solid white;
   background: rgba(255, 255, 255, 0.05);
+}
+
+/* marca */
+#marca {
+  display: flex;
+  justify-content: center;
+  padding: 15px 0px;
+}
+
+#marca img {
+    width: 50%; 
+    height: auto; 
 }
