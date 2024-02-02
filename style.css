@@ -17,15 +17,25 @@ body * {
 :root {
   --background-color: #00008b;
   --font-main: "Super-font";
-  --font-color: red;
+  --font-color: yellow;
   --font-size: 25px;
+
+  --background-buttons: rgb(3, 0, 174);
+  --border-buttons: yellow;
+  --background-buttons-hover: rgba(12, 11, 51, 0.196); 
+  --border-buttons-hover: red;
 }
 
 .Bat {
-  --background-color: #484848;
+  --background-color: black;
   --font-main: "Bat-font";
-  --font-color: black;
+  --font-color: white;
   --font-size: 14px;
+
+  --background-buttons: rgba(14, 13, 57, 0.185);
+  --border-buttons: rgba(255, 238, 111, 0.5);
+  --background-buttons-hover: black;
+  --border-buttons-hover: white;
 }
 
 /* caixa principal */
@@ -79,8 +89,8 @@ ul li a {
   align-items: center;
   padding: 16px 24px;
 
-  background: rgba(0, 0, 0, 0.185);
-  border: 1px solid rgba(129, 129, 129, 0.5);
+  background: var(--background-buttons);
+  border: 1px solid var(--border-buttons);
   border-radius: 10px;
 
   backdrop-filter: blur(4px);
@@ -94,8 +104,8 @@ ul li a {
 
 /* pseudo-selector */
 ul li a:hover {
-  border: 1.5px solid white;
-  background: rgba(255, 255, 255, 0.05);
+  border: 1.5px solid var(--border-buttons-hover);
+  background: var(--background-buttons-hover);
 }
 
 /* marca */
@@ -106,6 +116,6 @@ ul li a:hover {
 }
 
 #marca img {
-    width: 50%; 
-    height: auto; 
+  width: 50%; 
+  height: auto;
 }
