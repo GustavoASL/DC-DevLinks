@@ -66,12 +66,24 @@ body * {
 }
 
 /* Switch button */
+#switch {
+  position: relative;
+  width: 64px;
+  margin: 4px auto;
+}
+
 #switch button {
   width: 32px;
-  height: 32px;
-  background: white var(--switch-image) no-repeat center/contain;
+  height: 25px;
+  background: rgb(255, 255, 255) var(--switch-image) no-repeat center/cover;
   border: 0;
   border-radius: 50%;
+
+  position: absolute;
+  top: 50%;
+  left: 0;
+  z-index: 1;
+  transform: translateY(-50%);
 }
 
 #switch span {
