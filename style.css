@@ -85,11 +85,15 @@ body * {
   right: 0;
   z-index: 1;
   transform: translateY(-50%);
+  animation: slide-back 0.2s;
 }
 
 .Bat #switch button {
-  left: 0;
-  right: initial;
+  animation: slide-in 0.2s forwards;
+}
+
+#switch button:hover {
+  outline: 8px solid var(--border-buttons);
 }
 
 #switch span {
@@ -158,4 +162,23 @@ ul li a:hover {
 #marca img {
   width: 50%;
   height: auto;
+}
+
+/* animation */
+@keyframes slide-in {
+  from {
+    right: 0;
+  }
+  to {
+    right: 50%;
+  }
+}
+
+@keyframes slide-back {
+  from {
+    right: 50%;
+  }
+  to {
+    right: 0;
+  }
 }
