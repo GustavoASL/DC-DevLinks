@@ -24,7 +24,7 @@ body * {
   --border-buttons: yellow;
   --background-buttons-hover: rgba(12, 11, 51, 0.196);
   --border-buttons-hover: red;
-  --switch-image: url(./Assets/Switchicon/Superman-Marca.svg);
+  --switch-image: url(./Assets/Switchicon/superman-icon.svg);
 }
 
 .Bat {
@@ -37,7 +37,7 @@ body * {
   --border-buttons: rgba(255, 238, 111, 0.5);
   --background-buttons-hover: black;
   --border-buttons-hover: white;
-  --switch-image: url(./Assets/Switchicon/Batman-Marca.svg);
+  --switch-image: url(./Assets/Switchicon/batman-iconold.svg);
 }
 
 /* caixa principal */
@@ -76,7 +76,7 @@ body * {
 #switch button {
   width: 32px;
   height: 32px;
-  background: rgb(255, 255, 255) var(--switch-image) no-repeat center/cover;
+  background: rgba(255, 255, 255, 0.575) var(--switch-image) no-repeat center/cover;
   border: 0;
   border-radius: 50%;
 
@@ -93,7 +93,7 @@ body * {
 }
 
 #switch button:hover {
-  outline: 8px solid var(--border-buttons);
+  outline: 3px solid var(--border-buttons);
 }
 
 #switch span {
