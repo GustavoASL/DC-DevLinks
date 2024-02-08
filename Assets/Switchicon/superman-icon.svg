@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)"
+   sodipodi:docname="Superman Logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="683.20649"
+     inkscape:cy="539.4307"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="738"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1147"
+       transform="translate(-197.24491,23.519718)">
+      <path
+         style="fill:#e21e24;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 241.33819,58.15405 207.66223,90.226392 303.07745,201.94505 398.75994,89.959123 365.61852,58.421319 Z"
+         id="path24" />
+      <path
+         style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 303.34472,186.17615 -24.58879,-27.79603 c 16.44024,5.56961 32.29092,6.71747 47.3067,1.60362 z"
+         id="path26"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 264.85791,142.07668 -19.30826,-22.27786 c 0,0 9.12365,2.70847 16.17181,4.59327 30.03023,8.03061 81.49223,2.23783 81.55435,10.84629 -0.60879,4.69135 -9.06503,9.59763 -15.07502,11.64915 -8.43131,2.87804 -17.48596,0.33201 -26.72696,0 -4.6939,-4.24569 -5.80923,-10.28068 -19.77794,-9.88897 -6.43315,0.37992 -13.77285,-0.69063 -16.83798,5.07812 z"
+         id="path28"
+         sodipodi:nodetypes="ccscaccc" />
+      <path
+         style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 221.82752,90.760932 244.8127,68.844831 254.96894,69.1121 c -10.46429,9.367318 -18.26541,20.578372 -22.18337,34.47776 z"
+         id="path30"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 335.41706,68.043022 8.01809,8.018086 c 2.72662,-2.252097 2.93338,-5.008166 3.20723,-7.750817 z"
+         id="path32"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 384.86192,90.760932 364.0149,115.08245 C 342.72694,92.36981 319.61078,97.803078 284.36859,97.175401 255.57974,92.81435 262.87354,75.610479 279.825,70.181178 c 44.07415,-5.099918 54.86302,6.848725 57.99749,22.71791 l 31.27053,-0.53454 V 74.99203 Z"
+         id="path34"
+         sodipodi:nodetypes="cccccccc" />
+    </g>
+  </g>
+</svg>

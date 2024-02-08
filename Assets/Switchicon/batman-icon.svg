@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1155"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)"
+   sodipodi:docname="Bartman Logo.svg">
+  <defs
+     id="defs1149" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="478.59135"
+     inkscape:cy="385.66032"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1350"
+     inkscape:window-height="730"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1152">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1195"
+       transform="matrix(0.99560074,0,0,0.99554655,2.6004195,-3.0997654)"
+       style="fill:#ffde00;fill-opacity:1;stroke:#000000;stroke-width:1.00445">
+      <ellipse
+         style="opacity:0.999;fill:#ffde00;fill-opacity:1;stroke:#000000;stroke-width:3.01334;stroke-linecap:square;paint-order:fill markers stroke"
+         id="ellipse1187"
+         cx="105.07738"
+         cy="144.16011"
+         rx="97.181129"
+         ry="53.667301" />
+      <ellipse
+         style="opacity:0.999;fill:#ffde00;fill-opacity:1;stroke:#000000;stroke-width:3.01334;stroke-linecap:square;paint-order:fill markers stroke"
+         id="ellipse1189"
+         cx="105.07738"
+         cy="144.16011"
+         rx="95.042976"
+         ry="52.471973" />
+      <ellipse
+         style="opacity:0.999;fill:#ffde00;fill-opacity:1;stroke:#000000;stroke-width:3.01334;stroke-linecap:square;paint-order:fill markers stroke"
+         id="ellipse1191"
+         cx="105.07738"
+         cy="144.16011"
+         rx="93.439362"
+         ry="51.575478" />
+      <ellipse
+         style="opacity:0.999;fill:#ffde00;fill-opacity:1;stroke:#000000;stroke-width:3.01334;stroke-linecap:square;paint-order:fill markers stroke"
+         id="ellipse1193"
+         cx="104.94373"
+         cy="144.16011"
+         rx="91.167572"
+         ry="51.575478" />
+    </g>
+    <path
+       style="fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 73.008689,102.05914 c -45.98811,12.15139 -60.25703,48.54614 -15.875,71.28093 -11.55415,-22.0761 13.37519,-24.75737 21.35566,-12.47321 4.09789,-15.87839 26.416511,-0.24317 28.915181,14.93006 3.03897,-16.24276 24.2492,-30.51183 28.72619,-14.74107 6.68739,-13.77592 33.44011,-8.98021 20.5997,11.90625 50.99594,-24.4945 20.17769,-63.98018 -15.67455,-70.9259 19.3416,23.97714 -13.29519,33.20294 -21.08838,19.1317 l -1.97963,-23.423062 -5.66964,9.449402 -10.3549,-0.15279 -6.080381,-9.621702 -1.60362,24.187892 c -6.60836,11.90552 -41.02876,7.16358 -21.27063,-19.5485 z"
+       id="path1197"
+       sodipodi:nodetypes="cccccccccccccc" />
+  </g>
+</svg>
