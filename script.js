@@ -6,13 +6,13 @@ function toggleMode() {
   let img = document.querySelector("#profile img")
 
   if (html.classList.contains("Bat")) {
-    img.setAttribute("src", "./Assets/Avatar/Bat-avatar.png")
+    img.setAttribute("src", "./Assets/Avatar/avatar-bat.png")
   } else {
-    img.setAttribute("src", "./Assets/Avatar/Super-avatar.png")
+    img.setAttribute("src", "./Assets/Avatar/avatar-super.png")
   }
 
   if (html.classList.contains("Bat")) {
-    img.setAttribute("alt", "Gustavo sorrindo, camisa preta e fundo azul")
+    img.setAttribute("alt", "Gustavo sorrindo, camisa preta e fundo cinza")
   } else {
     img.setAttribute("alt","Gustavo sorrindo usando óculos, blusa azul com fundo azul")
   }
