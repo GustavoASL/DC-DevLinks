@@ -37,7 +37,7 @@ body * {
   --border-buttons: rgba(255, 238, 111, 0.5);
   --background-buttons-hover: black;
   --border-buttons-hover: white;
-  --switch-image: url(./Assets/Switchicon/batman-iconold.svg);
+  --switch-image: url(./Assets/Switchicon/batman-icon.svg);
 }
 
 /* caixa principal */
