@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- Feito com base nas aulas do curso discover, disponibilizado pela Rocketseat.
+- Feito com base nas aulas do curso discover, disponibilizado pela Rocketseat
 
 - [Discover](https://app.rocketseat.com.br/discover)
 
